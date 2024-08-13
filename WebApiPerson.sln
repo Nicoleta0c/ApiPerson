@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiPerson", "WebApiPerson\WebApiPerson.csproj", "{E247C1FF-2FF7-4B71-8814-3FD0A95A2B4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{1071633F-1AAE-4690-9CBA-ECD169494AC8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E247C1FF-2FF7-4B71-8814-3FD0A95A2B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E247C1FF-2FF7-4B71-8814-3FD0A95A2B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E247C1FF-2FF7-4B71-8814-3FD0A95A2B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E247C1FF-2FF7-4B71-8814-3FD0A95A2B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEF2DA2B-01C3-469B-9AF4-7A1E4E7F8816}
+	EndGlobalSection
+EndGlobal
